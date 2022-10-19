@@ -214,42 +214,22 @@ Kemudian lihat hasilnya.<br>
 
 ![img](SS/ss5.png)
 
-
-**Membuat Hero Panel**<br>
-Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.<br>
-```
+## Membuat Hero Panel
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.</br>
+'''
 <section id="hero">
  <h1>Hello World!</h1>
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem 
 elit, iaculis innisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, 
 vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc 
 pretium ac.</p>
+
  <a href="home.html" class="btn btn-large">Learn more &raquo;</a>
 </section>
-```
-
-/* Hero Panel */
-#hero {
- background-color: #e4e4e5;
- padding: 50px 20px;
- margin-bottom: 20px;
-}
-#hero h1 {
- margin-bottom: 20px;
- font-size: 35px;
-}
-#hero p {
- margin-bottom: 20px;
- font-size: 18px;
- line-height: 25px;
-}
-```
-
-Berikut tampilan pada Browser .<br>
+/* Hero Panel */ #hero { background-color: #e4e4e5; padding: 50px 20px; margin-bottom: 20px; } #hero h1 { margin-bottom: 20px; font-size: 35px; } #hero p { margin-bottom: 20px; font-size: 18px; line-height: 25px; }
 
 ![img](SS/ss6.png)
 
-Gambar 08.Tampilan Hero Panel.
 
 **Mengatur Layout Main dan Sidebar**<br>
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.<br>
