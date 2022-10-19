@@ -308,8 +308,7 @@ Kemudian tambahkan CSS.<br>
 ```
 
 Berikut tampilan pada Browser :<br>
-
-![img](SS/17.ss7.jpg)
+![img](SS/ss7.png)
 
 
 **Mengatur Footer**<br>
@@ -325,7 +324,6 @@ footer {
 ```
 
 Berikut tampilan pada Browser :<br>
-
 ![img](SS/ss8.png)
 
 
